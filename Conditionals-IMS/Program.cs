@@ -6,7 +6,7 @@ namespace Conditionals_IMS
     {
         static void Main(string[] args)
         {
-            /*
+            
             Console.Write("Paswoord: ");
             string paswoord = Console.ReadLine(); //console is altijd een string!
 
@@ -98,7 +98,7 @@ namespace Conditionals_IMS
             {
                 Console.WriteLine("HOERA! Je bent binnen!");
             }
-            */
+            
 
             Console.Write("Leeftijd: ");
             string antwoord = Console.ReadLine(); //altijd een string!!!
