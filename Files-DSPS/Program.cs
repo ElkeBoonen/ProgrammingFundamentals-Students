@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Files_DSPS
 {
@@ -43,9 +44,9 @@ namespace Files_DSPS
             Console.WriteLine("\n\n\nREAD TO END");
             StreamReader input = File.OpenText("Rapunzel.txt");
             string text = input.ReadToEnd();
-            Console.WriteLine(text);
+            //Console.WriteLine(text);
             input.Close();
-
+            /*
             Console.WriteLine("\n\n\nREAD LINE BY LINE");
             input = File.OpenText("Rapunzel.txt");
             string line = input.ReadLine();
@@ -77,6 +78,67 @@ namespace Files_DSPS
             {
                 Console.Write(item + " ");
             }
+            */
+
+            Console.WriteLine("Length: " + text.Length);
+            Console.WriteLine("First 10: " + text.Substring(0, 10));
+            Console.WriteLine("Last 10: " + text.Substring(text.Length-10,10));
+            Console.WriteLine("First occurrence: " + text.IndexOf("Rapunzel"));
+
+            text = text.ToLower();
+            Console.WriteLine("First occurrence: " + text.IndexOf("Rapunzel")); //-1 not found!!!
+            Console.WriteLine("First occurrence with lowercase r: " + text.IndexOf("rapunzel"));
+            Console.WriteLine("Last occurrence with lowercase r: " + text.LastIndexOf("rapunzel"));
+
+            int count = 0;
+            string word = "";
+            foreach (char ch in text)
+            {
+                //switch case 'a', 'b'...
+                if ((ch >= 97) && (ch <= 122))
+                {
+                    word += ch; //word = word + ch
+                }
+                else
+                {
+                    if (word == "rapunzel")
+                    {
+                        count++;
+                    } 
+                    word = "";
+                }
+            }
+            Console.WriteLine("# rapunzel: " + count);
+
+            Regex rx = new Regex(@"RAPUNzel", RegexOptions.IgnoreCase);
+            MatchCollection matches = rx.Matches(text);
+            Console.WriteLine("# rapunzel (regex): " + matches.Count);
+
+            word = "";
+            string abc = "azertyuiopqsdfghjklmwxcvbn";
+            foreach (char ch in text)
+            {
+                if (abc.Contains(ch))
+                {
+                    word += ch; //word = word + ch
+                }
+                else
+                {
+                    if (word.Length == 9)
+                    {
+                        Console.WriteLine(word);
+                    }
+                    word = "";
+                }
+            }
+
+            rx = new Regex(@"\b[a-z]{9}\b", RegexOptions.IgnoreCase);
+            matches = rx.Matches(text);
+            foreach (var item in matches)
+            {
+                Console.WriteLine(item);
+            }
+
         }
     }
 }
