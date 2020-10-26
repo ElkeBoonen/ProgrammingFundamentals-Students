@@ -139,6 +139,10 @@ namespace Files_DSPS
                 Console.WriteLine(item);
             }
 
+            string output =""
+
+                output += divisor + " ";
+
         }
     }
 }
