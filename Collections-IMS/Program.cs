@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Collections_IMS
 {
@@ -114,7 +115,7 @@ namespace Collections_IMS
             Console.WriteLine();
             Console.WriteLine(fruit.ContainsKey('a'));
             Console.WriteLine(fruit.ContainsValue("appelsien"));
-            */
+            
 
             Dictionary<DateTime, string> toDo = new Dictionary<DateTime, string>();
             Console.WriteLine("Geef items (, om te splitten) (stop om te stoppen): ");
@@ -129,14 +130,47 @@ namespace Collections_IMS
                 }
             }
 
-           
 
+            //hoe ga ik keys sorteren?
+            DateTime[] keysArray = toDo.Keys.ToArray();
+            List<DateTime> keysList = toDo.Keys.ToList();
 
+            Array.Sort(keysArray);
+            keysList.Sort();
 
-            foreach (var item in toDo)
+            foreach (var key in keysList)
             {
-                Console.WriteLine(item.Key + " op " + item.Value);
+                Console.WriteLine(key + " op " + toDo[key]);
+            }*/
+
+            Dictionary<DateTime, List<string>> toDo1 = new Dictionary<DateTime, List<string>();
+            Console.WriteLine("Geef items (, om te splitten) (stop om te stoppen): ");
+            string antwoord = "";
+            while (antwoord != "stop")
+            {
+                antwoord = Console.ReadLine();
+                if (antwoord != "stop")
+                {
+                    string[] array = antwoord.Split(',');
+                    toDo[Convert.ToDateTime(array[0])] = array[1].Trim();
+                }
             }
+
+
+            //hoe ga ik keys sorteren?
+            DateTime[] keysArray = toDo.Keys.ToArray();
+            List<DateTime> keysList = toDo.Keys.ToList();
+
+            Array.Sort(keysArray);
+            keysList.Sort();
+
+            foreach (var key in keysList)
+            {
+                Console.WriteLine(key + " op " + toDo[key]);
+            }
+            */
+
+
         }
     }
 }
