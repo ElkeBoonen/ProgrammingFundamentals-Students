@@ -143,7 +143,7 @@ namespace Collections_IMS
                 Console.WriteLine(key + " op " + toDo[key]);
             }*/
 
-            Dictionary<DateTime, List<string>> toDo1 = new Dictionary<DateTime, List<string>();
+            Dictionary<DateTime, List<string>> toDo1 = new Dictionary<DateTime, List<string>>();
             Console.WriteLine("Geef items (, om te splitten) (stop om te stoppen): ");
             string antwoord = "";
             while (antwoord != "stop")
@@ -152,23 +152,27 @@ namespace Collections_IMS
                 if (antwoord != "stop")
                 {
                     string[] array = antwoord.Split(',');
-                    toDo[Convert.ToDateTime(array[0])] = array[1].Trim();
+                    DateTime key = Convert.ToDateTime(array[0]);
+                    if (!toDo1.ContainsKey(key))
+                    {
+                        toDo1[key] = new List<string>();
+                    }
+                    toDo1[key].Add(array[1].Trim());
                 }
             }
 
-
-            //hoe ga ik keys sorteren?
-            DateTime[] keysArray = toDo.Keys.ToArray();
-            List<DateTime> keysList = toDo.Keys.ToList();
-
-            Array.Sort(keysArray);
+            List<DateTime> keysList = toDo1.Keys.ToList();
             keysList.Sort();
 
             foreach (var key in keysList)
             {
-                Console.WriteLine(key + " op " + toDo[key]);
+                Console.WriteLine(key);
+                foreach (var value in toDo1[key])
+                {
+                    Console.WriteLine(" * " + value);
+                }
             }
-            */
+            
 
 
         }
