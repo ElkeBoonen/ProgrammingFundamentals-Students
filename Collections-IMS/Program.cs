@@ -29,7 +29,7 @@ namespace Collections_IMS
             {
                 Console.Write(item + " ");
             }
-            */
+            
 
             List<string> lijst = new List<string>();
             lijst.Add("jan");
@@ -63,10 +63,57 @@ namespace Collections_IMS
             {
                 Console.Write(intLijst[i] + " ");
             }
+            
 
+            List<string> toDoList = new List<string>();
+            Console.WriteLine("Geef item van to do list, als alle items gegeven zijn dan stop ingeven: ");
+            string antwoord = "";
+            while (antwoord != "stop")
+            {
+                antwoord = Console.ReadLine();
+                if (antwoord != "stop")
+                {
+                    toDoList.Add(antwoord);
+                }
+            }
 
-           
+            string[] extras = { "extra taakjes", "nog extra taakjes" };
+            toDoList.AddRange(extras);
+            toDoList.Sort();
 
+            Console.WriteLine("");
+            foreach (var item in toDoList)
+            {
+                Console.WriteLine(item + " ");
+            }
+
+            */
+
+            Dictionary<char, string> fruit = new Dictionary<char, string>();
+            // 
+            fruit.Add('a', "appel"); 
+            fruit['b'] = "banaan";
+            fruit.Add('p', "peer");
+            fruit['k'] = "kiwi";
+            fruit['m'] = "mango";
+
+            foreach (var item in fruit)
+            {
+                Console.WriteLine(item.Key + " staat voor " + item.Value + "\t" + item );
+            }
+
+            //fruit.Add('a', "appelsien"); --> exception!!
+            fruit['a'] = "appelsien";
+            fruit.Remove('k');
+
+            foreach (var item in fruit.Values)
+            {
+                Console.Write(item + " ");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine(fruit.ContainsKey('a'));
+            Console.WriteLine(fruit.ContainsValue("appelsien"));
 
         }
     }
