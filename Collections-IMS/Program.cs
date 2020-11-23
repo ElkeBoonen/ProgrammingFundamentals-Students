@@ -87,7 +87,7 @@ namespace Collections_IMS
                 Console.WriteLine(item + " ");
             }
 
-            */
+            
 
             Dictionary<char, string> fruit = new Dictionary<char, string>();
             // 
@@ -114,7 +114,29 @@ namespace Collections_IMS
             Console.WriteLine();
             Console.WriteLine(fruit.ContainsKey('a'));
             Console.WriteLine(fruit.ContainsValue("appelsien"));
+            */
 
+            Dictionary<DateTime, string> toDo = new Dictionary<DateTime, string>();
+            Console.WriteLine("Geef items (, om te splitten) (stop om te stoppen): ");
+            string antwoord = "";
+            while (antwoord != "stop")
+            {
+                antwoord = Console.ReadLine();
+                if (antwoord != "stop")
+                {
+                    string[] array = antwoord.Split(',');
+                    toDo[Convert.ToDateTime(array[0])] = array[1].Trim();
+                }
+            }
+
+           
+
+
+
+            foreach (var item in toDo)
+            {
+                Console.WriteLine(item.Key + " op " + item.Value);
+            }
         }
     }
 }
