@@ -159,9 +159,6 @@ namespace Collections_DSPS
             }
 
             List<DateTime> keysList = todos.Keys.ToList();
-            DateTime[] keysArray = todos.Keys.ToArray();
-
-            Array.Sort(keysArray);
             keysList.Sort();
 
             Console.WriteLine("Your To Do list is:");
@@ -180,20 +177,26 @@ namespace Collections_DSPS
                 // 25/11/2020-test 1
                 string[] s = answer.Split('-');
                 DateTime key = Convert.ToDateTime(s[0]);
-                todos[key] = s[1];
+                if (!perfectToDoList.ContainsKey(key))
+                {
+                    perfectToDoList[key] = new List<string>();
+                }
+                perfectToDoList[key].Add(s[1]);
+
                 answer = Console.ReadLine();
             }
 
-            List<DateTime> keysList = todos.Keys.ToList();
-            DateTime[] keysArray = todos.Keys.ToArray();
-
+            DateTime[] keysArray = perfectToDoList.Keys.ToArray();
             Array.Sort(keysArray);
-            keysList.Sort();
 
             Console.WriteLine("Your To Do list is:");
-            foreach (DateTime key in keysList) //could also use keysArray
+            foreach (DateTime key in keysArray) //could also use keysList
             {
-                Console.WriteLine(key + " " + todos[key]);
+                Console.WriteLine(key);
+                foreach (var item in perfectToDoList[key])
+                {
+                    Console.WriteLine("* " + item);
+                }
             }
 
         }
