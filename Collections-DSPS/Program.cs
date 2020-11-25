@@ -96,7 +96,7 @@ namespace Collections_DSPS
             //todoList.ToArray(); --> transform to array
             //int[] array = { 1, 2, 3, 4 };
             //array.ToList();  --> transform to list (using system.Linq)
-            */
+            
 
             Dictionary<char, string> fruit = new Dictionary<char, string>();
             //Dictionary<int, double> dic = new Dictionary<int, double>();
@@ -143,6 +143,59 @@ namespace Collections_DSPS
             {
                 Console.WriteLine(item);
             }
+
+            
+
+            Console.WriteLine("Enter todo-items ('stop' to stop):");
+            Dictionary<DateTime, string> todos = new Dictionary<DateTime, string>();
+            string answer = Console.ReadLine();
+            while (answer != "stop")
+            {
+                // 25/11/2020-test 1
+                string[] s = answer.Split('-');
+                DateTime key = Convert.ToDateTime(s[0]);
+                todos[key] = s[1];
+                answer = Console.ReadLine();
+            }
+
+            List<DateTime> keysList = todos.Keys.ToList();
+            DateTime[] keysArray = todos.Keys.ToArray();
+
+            Array.Sort(keysArray);
+            keysList.Sort();
+
+            Console.WriteLine("Your To Do list is:");
+            foreach (DateTime key in keysList) //could also use keysArray
+            {
+                Console.WriteLine(key + " " + todos[key]);
+            }
+           */
+
+
+            Console.WriteLine("Enter todo-items ('stop' to stop):");
+            Dictionary<DateTime, List<string>> perfectToDoList = new Dictionary<DateTime, List<string>>();
+            string answer = Console.ReadLine();
+            while (answer != "stop")
+            {
+                // 25/11/2020-test 1
+                string[] s = answer.Split('-');
+                DateTime key = Convert.ToDateTime(s[0]);
+                todos[key] = s[1];
+                answer = Console.ReadLine();
+            }
+
+            List<DateTime> keysList = todos.Keys.ToList();
+            DateTime[] keysArray = todos.Keys.ToArray();
+
+            Array.Sort(keysArray);
+            keysList.Sort();
+
+            Console.WriteLine("Your To Do list is:");
+            foreach (DateTime key in keysList) //could also use keysArray
+            {
+                Console.WriteLine(key + " " + todos[key]);
+            }
+
         }
     }
 }
