@@ -70,6 +70,15 @@ namespace Methods_IMS
             Array.Sort(array); //wordt noooooooooit uitgevoerd!!!!!!
         }
 
+        static void RandomFill_Parameters(int[] array)
+        {
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(-10, 11);
+            }
+        }
+
         static void ChangeValue(int x)
         {
             x = 100;
@@ -82,10 +91,59 @@ namespace Methods_IMS
             Print(x);
         }
 
+        static void SwapByValue(int a, int b)
+        {
+            int temp = a;
+            a = b;
+            b = temp;
+            Console.WriteLine("SWAP VALUE: " + a + "-" + b);
 
+            //doet niets aan originele a & b
+            a = 254664;
+            b = 54465465;
+        }
+
+        static void SwapByRef(ref int a, ref int b)
+        {
+            int temp = a;
+            a = b;
+            b = temp;
+            Console.WriteLine("SWAP REF: " + a + "-" + b);
+
+            //originele a en b worden nog maar eens aangepast!!
+            a = 254664;
+            b = 54465465;
+
+        }
+
+        static void SwapByOut(out int a, out int b)
+        {
+            a = 20;
+            b = 40;
+
+            int temp = a;
+            a = b;
+            b = temp;
+            Console.WriteLine("SWAP OUT: " + a + "-" + b);
+
+            //originele a en b worden nog maar eens aangepast!!
+            a = 254664;
+            b = 54465465;
+        }
 
         static void Main(string[] args)
         {
+            int a = 10;
+            int b = 5;
+            Console.WriteLine(a + "-" + b);
+            SwapByValue(a, b);
+            Console.WriteLine(a + "-" + b);
+            SwapByRef(ref a, ref b);
+            Console.WriteLine(a + "-" + b);
+            SwapByOut(out a, out b);
+            Console.WriteLine(a + "-" + b);
+
+
             //x is een integer --> simple datatype = value type
             int x = 1;
             Console.WriteLine(x);
@@ -97,7 +155,6 @@ namespace Methods_IMS
             Print(x_array);
             ChangeValue(x_array);
             Print(x_array);
-
 
             int[] array = { 4, 7, 8, 1, 2, 6, 0 };
             Print(array);
@@ -130,7 +187,12 @@ namespace Methods_IMS
             Array.Sort(dbl);
             Print(dbl);
 
-          
+            int[] array4 = new int[15];
+            RandomFill_Parameters(array4);
+            Print(array4);
+            Array.Sort(array4);
+            Print(array4);
+
 
         }
     }
