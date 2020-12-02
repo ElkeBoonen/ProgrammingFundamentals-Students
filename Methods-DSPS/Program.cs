@@ -71,6 +71,15 @@ namespace Methods_DSPS
             Array.Sort(array); // dead code!!!!!!
         }
 
+        static void FillRef(int[] array)
+        {
+            Random rd = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = rd.Next(-99, 100); //incl lower - excl upperbound!
+            }
+        }
+
         static void ChangeValue(int value)
         {
             value = 100;
@@ -172,6 +181,12 @@ namespace Methods_DSPS
             Print(nrs3);
             Array.Sort(nrs3);
             Print(nrs3);
+
+            int[] nrs4 = new int[10];
+            FillRef(nrs4);
+            Print(nrs4);
+            Array.Sort(nrs4);
+            Print(nrs4);
         }
     }
 }
