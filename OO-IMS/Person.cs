@@ -20,5 +20,21 @@ namespace OO_IMS
             Name = name;
             Birth = birth;
         }
+
+        public int Age()
+        {
+            int age = DateTime.Now.Year - Birth.Year;
+            return age;
+        }
+
+        public void Print()
+        {
+            Console.WriteLine("HELLO " + Name + " " + Birth);
+        }
+
+        public override string ToString()
+        {
+            return Name + " is " + Age() + " jaar oud";
+        }
     }
 }
