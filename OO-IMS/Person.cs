@@ -7,7 +7,7 @@ namespace OO_IMS
     public class Person
     {
         public string Name { get; set; }
-        private DateTime Birth { get; set; }
+        protected DateTime Birth { get; set; }
 
         public Person()
         {
