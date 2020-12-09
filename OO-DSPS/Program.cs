@@ -14,7 +14,7 @@ namespace OO_DSPS
             elke.Name = "Elke Boonen";
             Console.WriteLine(elke.Name + " " + elke.Age());
 
-            Console.WriteLine(elke.ToString()); ;
+            Console.WriteLine(elke.ToString()); 
 
             elke.Print();
 
