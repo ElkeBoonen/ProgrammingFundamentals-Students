@@ -7,7 +7,7 @@ namespace OO_IMS
     {
         static void Main(string[] args)
         {
-            Person elke = new Person("Elke Boonen", new DateTime(1980,4,23));
+            Teacher elke = new Teacher("Elke Boonen", new DateTime(1980,4,23));
             Person jef = new Person("Jef Boonen", new DateTime(1980, 4, 23));
             Person john = new Person();
             elke.Print();
@@ -37,12 +37,22 @@ namespace OO_IMS
             persoontjes.Add(jef);
             persoontjes.Add(jan);
 
+            Course prog = new Course("Programming", elke, "Online", 3, new Time(13,45), WeekDays.Monday);
+            Course db = new Course("Databases", an, "Online", 3, new Time(), WeekDays.Monday);
+            Course web = new Course("Web", an, "Online", 3, new Time(9,00), WeekDays.Friday);
+
+            List<Course> courses = new List<Course>();
+            courses.Add(prog);
+            courses.Add(db);
+            courses.Add(web);
+
+            jan.Courses = courses;
+
             Console.WriteLine("\n\nMijn lijst van personen");
             foreach (var item in persoontjes)
             {
                 Console.WriteLine(item.ToString());
             }
-             
 
         }
     }
