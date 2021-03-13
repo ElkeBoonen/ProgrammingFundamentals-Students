@@ -1,0 +1,13 @@
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.csprojAssemblyReference.cache
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.exe
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.deps.json
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.runtimeconfig.json
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.dll
+C:\Users\u0116591\Desktop\Whileloops\bin\Debug\netcoreapp3.1\Whileloops.pdb
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.dll
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.pdb
+C:\Users\u0116591\Desktop\Whileloops\obj\Debug\netcoreapp3.1\Whileloops.genruntimeconfig.cache
