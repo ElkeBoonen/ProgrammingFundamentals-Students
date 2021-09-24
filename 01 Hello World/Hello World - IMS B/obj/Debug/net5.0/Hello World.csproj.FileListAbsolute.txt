@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.exe
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.dll
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\ref\Hello World.dll
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\bin\Debug\net5.0\Hello World.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.dll
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\ref\Hello World.dll
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Oefeningen\01\Hello World\obj\Debug\net5.0\Hello World.genruntimeconfig.cache
