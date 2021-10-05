@@ -1,0 +1,13 @@
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.exe
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.deps.json
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.runtimeconfig.json
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.dll
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\bin\Debug\netcoreapp3.1\03 If structuren - IMS B.pdb
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.csprojAssemblyReference.cache
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.dll
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.pdb
+C:\Users\u0116591\Desktop\03 If structuren - IMS B\obj\Debug\netcoreapp3.1\03 If structuren - IMS B.genruntimeconfig.cache
