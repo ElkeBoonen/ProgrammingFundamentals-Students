@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\ref\Coins - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\bin\Debug\net5.0\Coins - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\ref\Coins - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Coins - GROEP A\obj\Debug\net5.0\Coins - GROEP A.genruntimeconfig.cache

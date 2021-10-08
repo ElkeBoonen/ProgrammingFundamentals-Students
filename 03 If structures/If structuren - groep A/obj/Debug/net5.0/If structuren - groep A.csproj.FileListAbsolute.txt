@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\ref\If structuren - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\bin\Debug\net5.0\If structuren - groep A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\ref\If structuren - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structuren - groep A\obj\Debug\net5.0\If structuren - groep A.genruntimeconfig.cache
