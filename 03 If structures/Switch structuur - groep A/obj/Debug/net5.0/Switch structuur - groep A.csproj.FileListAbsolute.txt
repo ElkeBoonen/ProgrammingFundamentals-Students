@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\ref\Switch structuur - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\bin\Debug\net5.0\Switch structuur - groep A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\ref\Switch structuur - groep A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch structuur - groep A\obj\Debug\net5.0\Switch structuur - groep A.genruntimeconfig.cache
