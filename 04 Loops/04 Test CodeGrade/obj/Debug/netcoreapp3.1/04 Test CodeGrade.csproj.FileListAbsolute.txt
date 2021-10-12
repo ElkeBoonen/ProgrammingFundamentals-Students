@@ -1,0 +1,12 @@
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.exe
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.deps.json
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.runtimeconfig.json
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.dll
+C:\Users\u0116591\Desktop\04 Test CodeGrade\bin\Debug\netcoreapp3.1\04 Test CodeGrade.pdb
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.dll
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.pdb
+C:\Users\u0116591\Desktop\04 Test CodeGrade\obj\Debug\netcoreapp3.1\04 Test CodeGrade.genruntimeconfig.cache
