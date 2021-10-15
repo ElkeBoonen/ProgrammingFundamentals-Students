@@ -1,0 +1,13 @@
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.exe
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.deps.json
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.runtimeconfig.json
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.runtimeconfig.dev.json
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.dll
+C:\Users\u0116591\Desktop\WHILE - GROEP A\bin\Debug\netcoreapp3.1\WHILE - GROEP A.pdb
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.AssemblyInfoInputs.cache
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.AssemblyInfo.cs
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.dll
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.pdb
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.genruntimeconfig.cache
+C:\Users\u0116591\Desktop\WHILE - GROEP A\obj\Debug\netcoreapp3.1\WHILE - GROEP A.csprojAssemblyReference.cache
