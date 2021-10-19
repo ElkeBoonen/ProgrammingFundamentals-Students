@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\ref\OUTPUT - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\bin\Debug\net5.0\OUTPUT - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\ref\OUTPUT - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\OUTPUT - GROEP B\obj\Debug\net5.0\OUTPUT - GROEP B.genruntimeconfig.cache
