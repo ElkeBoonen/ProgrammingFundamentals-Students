@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TEST CODEGRADE - GROEP A/1.0.0": {
+        "runtime": {
+          "TEST CODEGRADE - GROEP A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEST CODEGRADE - GROEP A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
