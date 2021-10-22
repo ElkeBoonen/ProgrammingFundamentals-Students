@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\ref\FIZZBUZZ - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\bin\Debug\net5.0\FIZZBUZZ - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\ref\FIZZBUZZ - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - GROEP A\obj\Debug\net5.0\FIZZBUZZ - GROEP A.genruntimeconfig.cache
