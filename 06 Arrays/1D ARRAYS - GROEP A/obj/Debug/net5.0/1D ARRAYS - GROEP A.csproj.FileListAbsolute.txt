@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\ref\1D ARRAYS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\bin\Debug\net5.0\1D ARRAYS - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\ref\1D ARRAYS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAYS - GROEP A\obj\Debug\net5.0\1D ARRAYS - GROEP A.genruntimeconfig.cache
