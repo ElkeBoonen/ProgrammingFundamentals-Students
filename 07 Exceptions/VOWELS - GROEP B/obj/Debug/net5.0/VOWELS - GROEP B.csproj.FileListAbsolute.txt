@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\ref\VOWELS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\bin\Debug\net5.0\VOWELS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\ref\VOWELS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\VOWELS - GROEP B\obj\Debug\net5.0\VOWELS - GROEP B.genruntimeconfig.cache
