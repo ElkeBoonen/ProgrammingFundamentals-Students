@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\07 Test CodeGrade\\07 Test CodeGrade.csproj",
+      "projectUniqueName": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\07 Test CodeGrade.csproj",
       "projectName": "07 Test CodeGrade",
-      "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\07 Test CodeGrade\\07 Test CodeGrade.csproj",
+      "projectPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\07 Test CodeGrade.csproj",
       "packagesPath": "C:\\Users\\elkeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\07 Test CodeGrade\\obj\\",
+      "outputPath": "C:\\Users\\elkeb\\OneDrive - Thomas More\\Git\\ProgrammingFundamentals-Students\\07 Exceptions\\07 Test CodeGrade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
