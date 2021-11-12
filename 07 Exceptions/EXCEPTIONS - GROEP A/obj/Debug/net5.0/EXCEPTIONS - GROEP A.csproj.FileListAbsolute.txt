@@ -1,0 +1,19 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\donkey.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\english.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\rapunzel.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\ref\EXCEPTIONS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\bin\Debug\net5.0\EXCEPTIONS - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\ref\EXCEPTIONS - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\EXCEPTIONS - GROEP A\obj\Debug\net5.0\EXCEPTIONS - GROEP A.genruntimeconfig.cache
