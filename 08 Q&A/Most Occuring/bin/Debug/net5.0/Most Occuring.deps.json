@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Most Occuring/1.0.0": {
+        "runtime": {
+          "Most Occuring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Most Occuring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

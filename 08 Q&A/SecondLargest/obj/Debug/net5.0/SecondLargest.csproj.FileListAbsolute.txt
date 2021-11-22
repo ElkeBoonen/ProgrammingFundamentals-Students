@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\ref\SecondLargest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\bin\Debug\net5.0\SecondLargest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\ref\SecondLargest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\SecondLargest\obj\Debug\net5.0\SecondLargest.genruntimeconfig.cache

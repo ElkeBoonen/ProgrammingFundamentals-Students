@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\ref\Punctuation.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\bin\Debug\net5.0\Punctuation.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\ref\Punctuation.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Punctuation\obj\Debug\net5.0\Punctuation.genruntimeconfig.cache

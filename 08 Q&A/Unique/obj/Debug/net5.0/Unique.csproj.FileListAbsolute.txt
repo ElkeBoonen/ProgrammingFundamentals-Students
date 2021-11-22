@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\ref\Unique.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\bin\Debug\net5.0\Unique.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\ref\Unique.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Q&A\Unique\obj\Debug\net5.0\Unique.genruntimeconfig.cache

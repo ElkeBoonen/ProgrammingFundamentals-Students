@@ -40,9 +40,12 @@ namespace _07_Test_CodeGrade
                 }
             }*/
 
-            try
+            try //als er geen spatie is gezet!
             {
-                regex = new Regex(chars[0] + @"\w*" + chars[1]);
+                regex = new Regex(@"\b"+ chars[0] + @"\w*" + chars[1] + @"\b");
+                //regex = new Regex($@"\b{chars[0]}\w*{chars[1]}\b");
+                //@ gebruiken we in regex om letterlijke strings te maken
+                //$ gebruiken we voor waarden van variabelen bv in Console.WriteLine($"Eerste char {chars[0]}");
 
                 MatchCollection matches = regex.Matches(text);
 
