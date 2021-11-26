@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\ref\To-do final - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\bin\Debug\net5.0\To-do final - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\ref\To-do final - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\To-do final - GROEP B\obj\Debug\net5.0\To-do final - GROEP B.genruntimeconfig.cache

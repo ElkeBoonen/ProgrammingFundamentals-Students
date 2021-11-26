@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\ref\TODO - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\bin\Debug\net5.0\TODO - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\ref\TODO - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\TODO - GROEP A\obj\Debug\net5.0\TODO - GROEP A.genruntimeconfig.cache

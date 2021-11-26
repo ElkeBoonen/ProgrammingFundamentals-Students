@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\ref\DICTIONARY - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\bin\Debug\net5.0\DICTIONARY - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\ref\DICTIONARY - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\08 Graph\DICTIONARY - GROEP A\obj\Debug\net5.0\DICTIONARY - GROEP A.genruntimeconfig.cache

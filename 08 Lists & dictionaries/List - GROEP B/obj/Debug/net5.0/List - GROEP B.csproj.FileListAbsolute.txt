@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\ref\List - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\bin\Debug\net5.0\List - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\ref\List - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\08 Lists & dictionaries\List - GROEP B\obj\Debug\net5.0\List - GROEP B.genruntimeconfig.cache
