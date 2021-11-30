@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\ref\METHODS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\bin\Debug\net5.0\METHODS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\ref\METHODS - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\09 Methods\METHODS - GROEP B\obj\Debug\net5.0\METHODS - GROEP B.genruntimeconfig.cache
