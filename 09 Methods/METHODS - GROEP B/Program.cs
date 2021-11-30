@@ -14,9 +14,10 @@ namespace METHODS___GROEP_B
             Console.WriteLine();
         }
 
-        static int MeestVoorkomend(int[] array)
+        static int Meest(int[] array)
         {            
             //tellen van zelfde items in array
+            //meest voorkomende element eruit halen
             Dictionary<int, int> dictionary = new Dictionary<int, int>();
             foreach (var item in array)
             {
@@ -45,15 +46,40 @@ namespace METHODS___GROEP_B
             return key;
         }
 
-        static int[] RandomVullen()
+        static int[] RandomVullen(int lengte, int min, int max)
         {
-            int[] array = new int[15];
+            int[] array = new int[lengte];
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(min, max);
+            }
+            return array;
+            //Array.Sort(array); --> dode code --> unreachable!!!
+        }
+
+        static int[] RandomVullen(int lengte = 15)
+        {
+            int[] array = new int[lengte];
             Random random = new Random();
             for (int i = 0; i < array.Length; i++)
             {
                 array[i] = random.Next(1, 10);
             }
             return array;
+            //Array.Sort(array); --> dode code --> unreachable!!!
+        }
+
+        static int[] RandomVullen(int min, int max)
+        {
+            int[] array = new int[20];
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(min, max);
+            }
+            return array;
+            //Array.Sort(array); --> dode code --> unreachable!!!
         }
 
         static void Main(string[] args)
@@ -65,21 +91,35 @@ namespace METHODS___GROEP_B
              */
 
             int[] array1 = { 1, 3, 1, 4, 6, 2, 3, 3, 3, 9, 7, 8, 6, 2, 5 };
-            int[] array2 = RandomVullen();
-
             Print(array1);
             Array.Sort(array1);
             Print(array1);
+            int waarde = Meest(array1);
+            Console.WriteLine($"{waarde} komt het meeste voor in array1!");
 
+            Console.WriteLine("Geef een lengte van de array in");
+            int lengte = Convert.ToInt32(Console.ReadLine());
+            int[] array2 = RandomVullen(lengte, 1, 10);
             Print(array2);
             Array.Reverse(array2);
             Print(array2);
+            Console.WriteLine($"{Meest(array2)} komt het meeste voor in array2!");
 
-            int waarde = MeestVoorkomend(array1);
-            Console.WriteLine($"{waarde} komt het meeste voor in array1!");
-            
-            waarde = MeestVoorkomend(array2);
-            Console.WriteLine($"{waarde} komt het meeste voor in array2!");
+            int[] array3 = RandomVullen();
+            Print(array3);
+            Console.WriteLine($"{Meest(array3)} komt het meeste voor in array3!");
+
+            int[] array4 = RandomVullen(30);
+            Print(array4);
+            Console.WriteLine($"{Meest(array4)} komt het meeste voor in array4!");
+
+            int[] array5 = RandomVullen(-10,10);
+            Print(array5);
+            Console.WriteLine($"{Meest(array5)} komt het meeste voor in array5!");
+
+
+
+
         }
     }
 }
