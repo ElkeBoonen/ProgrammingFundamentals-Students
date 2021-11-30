@@ -45,6 +45,17 @@ namespace METHODS___GROEP_B
             return key;
         }
 
+        static int[] RandomVullen()
+        {
+            int[] array = new int[15];
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = random.Next(1, 10);
+            }
+            return array;
+        }
+
         static void Main(string[] args)
         {
             /*
@@ -54,7 +65,7 @@ namespace METHODS___GROEP_B
              */
 
             int[] array1 = { 1, 3, 1, 4, 6, 2, 3, 3, 3, 9, 7, 8, 6, 2, 5 };
-            int[] array2 = { 1, 2, 3, 4, 5 };
+            int[] array2 = RandomVullen();
 
             Print(array1);
             Array.Sort(array1);
@@ -66,6 +77,9 @@ namespace METHODS___GROEP_B
 
             int waarde = MeestVoorkomend(array1);
             Console.WriteLine($"{waarde} komt het meeste voor in array1!");
+            
+            waarde = MeestVoorkomend(array2);
+            Console.WriteLine($"{waarde} komt het meeste voor in array2!");
         }
     }
 }
