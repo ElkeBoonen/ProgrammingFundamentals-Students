@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BLAD STEEN SCHAAR - GROEP A/1.0.0": {
+        "runtime": {
+          "BLAD STEEN SCHAAR - GROEP A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLAD STEEN SCHAAR - GROEP A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
