@@ -24,6 +24,7 @@ namespace PERSON___GROEP_B
 
             Person wim = new Person("Wim Kerstmis", new DateTime(1984, 12, 25));
             Student brent = new Student("Brent De Pauw", new DateTime(2003, 6, 3));
+            Docent collin = new Docent("Collin Van der Vorst", new DateTime(1991, 5, 1));
 
             List<Person> personen = new List<Person>();
             personen.Add(elke);
@@ -36,6 +37,14 @@ namespace PERSON___GROEP_B
             {
                 Console.WriteLine("-" + item);
             }
+
+            Course programming = new Course("Programming", elke, 4, new Time(8,30), Weekday.Tuesday);
+            Course web = new Course("Web", collin, 3, new Time(9, 30), Weekday.Thursday);
+
+            Console.WriteLine("\nCURSUSSEN TOEVOEGEN AAN STUDENT");
+            brent.Courses.Add(programming);
+            brent.Courses.Add(web);
+            Console.WriteLine(brent);
 
 
         }

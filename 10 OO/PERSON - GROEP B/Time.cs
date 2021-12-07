@@ -42,7 +42,7 @@ namespace PERSON___GROEP_B
 
         public Time AddHours(int hours)
         {
-            return new Time(hours + hours, Minute);
+            return new Time(Hour + hours, Minute);
         }
 
         public override string ToString()

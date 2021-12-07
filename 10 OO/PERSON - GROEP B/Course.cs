@@ -11,7 +11,6 @@ namespace PERSON___GROEP_B
         public string Name { get; set; }
         public Docent Teacher { get; set; }
         public int Hours { get; set; }
-
         public Time Start { get; set; }
         public Weekday Day { get; set; }
 
@@ -28,8 +27,8 @@ namespace PERSON___GROEP_B
         {
             string s = "";
             s += Name.ToUpper() + "\n";
-            s += "door " + Teacher.Name + "\n";
-            s += "op " + Day + " van " + Start + " tot " + Start.AddHours(Hours);
+            s += " by " + Teacher.Name + "\n";
+            s += " on " + Day + " --> " + Start + "-" + Start.AddHours(Hours);
             return s;
 
         }
