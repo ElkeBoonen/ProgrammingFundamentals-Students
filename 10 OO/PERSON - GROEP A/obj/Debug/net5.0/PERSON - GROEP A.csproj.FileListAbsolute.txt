@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\ref\PERSON - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\bin\Debug\net5.0\PERSON - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\ref\PERSON - GROEP A.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\PERSON - GROEP A\obj\Debug\net5.0\PERSON - GROEP A.genruntimeconfig.cache
