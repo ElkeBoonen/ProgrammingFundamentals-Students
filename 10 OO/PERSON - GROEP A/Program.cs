@@ -22,7 +22,20 @@ namespace PERSON___GROEP_A
             personen.Add(persoon);
 
 
-            Student jarne = new Student("Jarne Schoolmeesters", new DateTime(1999, 5, 17), "Thomas More");
+            Teacher collin = new Teacher("Collin", new DateTime(1991, 4, 16));
+
+            Course programming = new Course("Programming", elke, 4, new Time(8, 30), Weekday.Friday);
+            Course web = new Course("Web", collin, 3, new Time(13, 45), Weekday.Wednesday);
+            List<Course> courses = new List<Course>();
+            courses.Add(programming);
+            courses.Add(web);
+
+            Console.WriteLine(programming);
+            Console.WriteLine(web);
+
+            Student jarne = new Student("Jarne Schoolmeesters", 
+                new DateTime(1999, 5, 17), "Thomas More", courses);
+            
             personen.Add(jarne);
 
             alex.Name = "Alexia Van Mechelen";
@@ -36,6 +49,10 @@ namespace PERSON___GROEP_A
                     Console.WriteLine(" --> leeftijd student " + item.Age());
                 }
             }
+
+            
+
+            
 
 
 
