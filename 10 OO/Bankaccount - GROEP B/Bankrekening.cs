@@ -15,10 +15,37 @@ namespace Bankaccount___GROEP_B
 
         public Bankrekening(string eigenaar,double saldo)
         {
-            Saldo = saldo;
-            //Intrest = intrest;
             Eigenaar = eigenaar;
-            Transactie("OPENING", saldo);
+            if (File.Exists(Eigenaar + "_transacties.txt"))
+            {
+                //14/12/2021 10:29:46 OPENING 999 nieuw saldo = 999
+                string[] transacties = File.ReadAllLines(Eigenaar + "_transacties.txt");
+                string laatste = transacties[transacties.Length - 1];
+
+                //MANIER 1 om SALDO eruit te halen
+                int index = laatste.IndexOf('=');
+                int lengte = laatste.Length;
+                Saldo = Convert.ToDouble(laatste.Substring(index + 2));
+
+                /* MANIER 2 om SALDO eruit te halen
+                 * string[] array = laatste.Split('=');
+                Saldo = Convert.ToDouble(array[1].Trim()); */
+
+                //MANIER 3 om SALDO eruit te halen
+                //string[] array = laatste.Split(' ');
+                //Saldo = Convert.ToDouble(array[array.Length - 1]);
+
+                this.Storten(saldo);
+            }
+            else
+            {
+                Transactie("OPENING", saldo);
+                Saldo = saldo;
+            }
+            
+            //Intrest = intrest;
+            
+            
         }
 
         public double Storten(double geld)
