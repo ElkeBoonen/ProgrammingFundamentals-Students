@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\ref\Bankaccount - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\bin\Debug\net5.0\Bankaccount - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\ref\Bankaccount - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\Bankaccount - GROEP B\obj\Debug\net5.0\Bankaccount - GROEP B.genruntimeconfig.cache

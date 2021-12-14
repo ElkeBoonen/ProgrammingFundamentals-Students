@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bankaccount - GROEP B/1.0.0": {
+        "runtime": {
+          "Bankaccount - GROEP B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bankaccount - GROEP B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

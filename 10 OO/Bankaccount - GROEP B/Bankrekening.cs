@@ -10,13 +10,13 @@ namespace Bankaccount___GROEP_B
     class Bankrekening
     {
         public double Saldo { get; set; }
-        public double Intrest { get; set; }
+        //public double Intrest { get; set; }
         public string Eigenaar { get; set; }
 
-        public Bankrekening(double saldo, double intrest, string eigenaar)
+        public Bankrekening(string eigenaar,double saldo)
         {
             Saldo = saldo;
-            Intrest = intrest;
+            //Intrest = intrest;
             Eigenaar = eigenaar;
             Transactie("OPENING", saldo);
         }
@@ -55,6 +55,7 @@ namespace Bankaccount___GROEP_B
             string s = "REKENING VAN " + Eigenaar + "\n";
             StreamReader stream = new StreamReader(Eigenaar + "_transacties.txt");
             s += stream.ReadToEnd();
+            stream.Close();
             return s;
         }
     }
