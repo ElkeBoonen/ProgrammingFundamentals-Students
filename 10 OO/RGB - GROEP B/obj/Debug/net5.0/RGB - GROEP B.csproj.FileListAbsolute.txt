@@ -1,0 +1,18 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\ref\RGB - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\RGB - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\ref\RGB - GROEP B.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\bin\Debug\net5.0\Colorful.Console.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\RGB - GROEP B\obj\Debug\net5.0\RGB - GROEP B.csproj.CopyComplete
