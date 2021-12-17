@@ -22,13 +22,27 @@ namespace BANKACCOUNT___GROEP_A
             Regex regex = new Regex(@"[^a-zA-Z]");
             string replace = regex.Replace(owner, "_");
             _filename = "transactions_" + replace + ".txt";
-            Transaction("Open account");
+
+            if (File.Exists(_filename))
+            {
+                string[] transactions = File.ReadAllLines(_filename);
+                string last = transactions[transactions.Length - 1];
+                //Deposit money 100 new balance = 1100
+                string[] parts = last.Split('=');
+                double oldbalance = Convert.ToDouble(parts[parts.Length - 1].Trim());
+                Balance = oldbalance;
+                Deposit(balance);
+            }
+            else
+            {
+                Transaction("Open account");
+            }
         }
 
         private void Transaction(string message)
         {
             StreamWriter stream = new StreamWriter(_filename,true);
-            stream.WriteLine(message + " new balance = " + Balance);
+            stream.WriteLine(DateTime.Now + " " + message + " new balance = " + Balance);
             stream.Close();
         }
 
@@ -56,8 +70,11 @@ namespace BANKACCOUNT___GROEP_A
 
         public override string ToString()
         {
-            string s = "Bankaccount " + Owner;
-            s += File.ReadAllLines(_filename);
+            string s = "BANKACCOUNT " + Owner + "\n";
+            foreach (var item in File.ReadAllLines(_filename))
+            {
+                s += " -" + item + "\n";
+            }
             return s;
         }
     }
