@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\ref\BLAD STEEN SCHAAR - IMSA.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\bin\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\ref\BLAD STEEN SCHAAR - IMSA.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\10 OO\BLAD STEEN SCHAAR - IMSA\obj\Debug\net5.0\BLAD STEEN SCHAAR - IMSA.genruntimeconfig.cache
