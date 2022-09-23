@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.exe
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\bin\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\01 Hello Name (test codegrade) - DSPS\obj\Debug\netcoreapp3.1\01 Hello Name (test codegrade) - DSPS.genruntimeconfig.cache

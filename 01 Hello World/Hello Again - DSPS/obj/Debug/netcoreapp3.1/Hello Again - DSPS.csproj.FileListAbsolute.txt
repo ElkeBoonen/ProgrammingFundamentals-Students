@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.exe
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.deps.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\bin\Debug\netcoreapp3.1\Hello Again - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.dll
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello Again - DSPS\obj\Debug\netcoreapp3.1\Hello Again - DSPS.genruntimeconfig.cache

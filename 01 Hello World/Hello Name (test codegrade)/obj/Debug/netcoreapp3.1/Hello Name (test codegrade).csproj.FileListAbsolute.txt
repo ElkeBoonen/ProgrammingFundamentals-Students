@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).exe
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).deps.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).runtimeconfig.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).dll
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\bin\Debug\netcoreapp3.1\Hello Name (test codegrade).pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).AssemblyInfo.cs
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).dll
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).pdb
+C:\Users\elkeb\OneDrive\Desktop\Hello Name (test codegrade)\obj\Debug\netcoreapp3.1\Hello Name (test codegrade).genruntimeconfig.cache
