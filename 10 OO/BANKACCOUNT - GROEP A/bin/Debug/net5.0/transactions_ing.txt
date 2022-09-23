@@ -1,4 +1,0 @@
-Open account new balance = 1000
-Deposit money 100 new balance = 1100
-17/12/2021 11:42:47 Deposit money 500 new balance = 1600
-17/12/2021 11:43:43 Deposit money 999 new balance = 2599

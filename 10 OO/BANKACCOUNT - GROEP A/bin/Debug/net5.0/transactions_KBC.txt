@@ -1,2 +1,0 @@
-Open account new balance = 200
-Withdraw money 100 new balance = 100
