@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\01 Hello World",
+    "\\03 If structures",
+    "\\04 Loops",
+    "\\05 Files",
+    "\\07 Exceptions",
+    "\\08 Lists & dictionaries",
+    "\\09 Methods",
+    "\\10 OO",
+    "\\Q&A"
   ],
-  "SelectedNode": "\\XOR - GROEP B.sln",
+  "SelectedNode": "\\01 Hello World",
   "PreviewInSolutionExplorer": false
 }

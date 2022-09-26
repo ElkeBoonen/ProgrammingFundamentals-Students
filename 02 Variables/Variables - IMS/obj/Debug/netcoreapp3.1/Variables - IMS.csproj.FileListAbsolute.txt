@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\bin\Debug\netcoreapp3.1\Variables - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - IMS\obj\Debug\netcoreapp3.1\Variables - IMS.genruntimeconfig.cache
