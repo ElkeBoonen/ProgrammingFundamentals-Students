@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\bin\Debug\netcoreapp3.1\Variables - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Variables - DSPS\obj\Debug\netcoreapp3.1\Variables - DSPS.genruntimeconfig.cache
