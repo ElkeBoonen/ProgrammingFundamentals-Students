@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\bin\Debug\netcoreapp3.1\02 Sum (test codegrade).pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\02 Sum (test codegrade)\obj\Debug\netcoreapp3.1\02 Sum (test codegrade).genruntimeconfig.cache

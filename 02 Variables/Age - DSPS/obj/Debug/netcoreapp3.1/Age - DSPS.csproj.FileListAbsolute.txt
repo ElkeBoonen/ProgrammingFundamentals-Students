@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\bin\Debug\netcoreapp3.1\Age - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Age - DSPS\obj\Debug\netcoreapp3.1\Age - DSPS.genruntimeconfig.cache
