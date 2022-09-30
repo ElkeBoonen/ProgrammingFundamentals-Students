@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\bin\Debug\netcoreapp3.1\Extra oefening - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\02 Variables\Extra oefening - IMS\obj\Debug\netcoreapp3.1\Extra oefening - IMS.genruntimeconfig.cache

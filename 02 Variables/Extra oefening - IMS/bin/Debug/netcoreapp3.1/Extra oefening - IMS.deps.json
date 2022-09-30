@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Extra oefening - IMS/1.0.0": {
+        "runtime": {
+          "Extra oefening - IMS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extra oefening - IMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
