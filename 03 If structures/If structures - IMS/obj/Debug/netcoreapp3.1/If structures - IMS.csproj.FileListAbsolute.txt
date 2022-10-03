@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\bin\Debug\netcoreapp3.1\If structures - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If structures - IMS\obj\Debug\netcoreapp3.1\If structures - IMS.genruntimeconfig.cache
