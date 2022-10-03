@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\bin\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\SoundOfThePolice - DSPS\obj\Debug\netcoreapp3.1\SoundOfThePolice - DSPS.genruntimeconfig.cache

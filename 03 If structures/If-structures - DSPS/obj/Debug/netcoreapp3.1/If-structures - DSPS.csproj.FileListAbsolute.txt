@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\bin\Debug\netcoreapp3.1\If-structures - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\If-structures - DSPS\obj\Debug\netcoreapp3.1\If-structures - DSPS.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\bin\Debug\netcoreapp3.1\Tmorrow land - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Tmorrow land - DSPS\obj\Debug\netcoreapp3.1\Tmorrow land - DSPS.genruntimeconfig.cache

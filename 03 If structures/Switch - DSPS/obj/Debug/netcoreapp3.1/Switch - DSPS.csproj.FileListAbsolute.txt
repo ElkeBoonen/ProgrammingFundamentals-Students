@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\bin\Debug\netcoreapp3.1\Switch - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Switch - DSPS\obj\Debug\netcoreapp3.1\Switch - DSPS.genruntimeconfig.cache
