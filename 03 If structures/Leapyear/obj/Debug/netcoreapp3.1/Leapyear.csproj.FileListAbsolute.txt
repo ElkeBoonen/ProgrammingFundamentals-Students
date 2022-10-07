@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\bin\Debug\netcoreapp3.1\Leapyear.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Leapyear\obj\Debug\netcoreapp3.1\Leapyear.genruntimeconfig.cache
