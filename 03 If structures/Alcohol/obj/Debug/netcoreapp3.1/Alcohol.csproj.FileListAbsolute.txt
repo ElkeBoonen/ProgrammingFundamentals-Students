@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\bin\Debug\netcoreapp3.1\Alcohol.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Alcohol\obj\Debug\netcoreapp3.1\Alcohol.genruntimeconfig.cache
