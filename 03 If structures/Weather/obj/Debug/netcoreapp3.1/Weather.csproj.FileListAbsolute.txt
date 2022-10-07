@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\bin\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\03 If structures\Weather\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
