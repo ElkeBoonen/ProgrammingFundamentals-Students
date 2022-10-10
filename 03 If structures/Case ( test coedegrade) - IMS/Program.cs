@@ -17,7 +17,7 @@ namespace Case___test_coedegrade____IMS
                 return;
             }
 
-            //versie 1 om te checkn of iets uppercase is
+            //versie 1 om te checken of iets uppercase is
             if (answer.ToUpper() == c.ToString()) { }
             //versie 2 - Char library
             if (Char.IsUpper(c)) { }

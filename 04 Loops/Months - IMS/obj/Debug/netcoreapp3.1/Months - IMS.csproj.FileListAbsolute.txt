@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\bin\Debug\netcoreapp3.1\Months - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Months - IMS\obj\Debug\netcoreapp3.1\Months - IMS.genruntimeconfig.cache
