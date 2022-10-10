@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\bin\Debug\netcoreapp3.1\FOR _ DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\FOR _ DSPS\obj\Debug\netcoreapp3.1\FOR _ DSPS.genruntimeconfig.cache
