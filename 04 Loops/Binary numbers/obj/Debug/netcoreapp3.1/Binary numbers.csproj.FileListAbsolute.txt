@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\bin\Debug\netcoreapp3.1\Binary numbers.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\Binary numbers\obj\Debug\netcoreapp3.1\Binary numbers.genruntimeconfig.cache

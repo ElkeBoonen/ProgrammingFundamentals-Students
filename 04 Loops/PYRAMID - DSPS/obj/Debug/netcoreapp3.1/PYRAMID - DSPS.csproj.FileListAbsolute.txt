@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\bin\Debug\netcoreapp3.1\PYRAMID - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\PYRAMID - DSPS\obj\Debug\netcoreapp3.1\PYRAMID - DSPS.genruntimeconfig.cache
