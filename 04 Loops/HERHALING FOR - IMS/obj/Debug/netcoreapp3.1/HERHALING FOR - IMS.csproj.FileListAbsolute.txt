@@ -1,0 +1,28 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingAdvanced-Students\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\bin\Debug\netcoreapp3.1\HERHALING FOR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\HERHALING FOR - IMS\obj\Debug\netcoreapp3.1\HERHALING FOR - IMS.genruntimeconfig.cache

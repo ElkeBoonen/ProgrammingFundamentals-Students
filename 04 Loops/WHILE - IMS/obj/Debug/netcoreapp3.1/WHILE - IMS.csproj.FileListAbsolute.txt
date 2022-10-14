@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\bin\Debug\netcoreapp3.1\WHILE - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\WHILE - IMS\obj\Debug\netcoreapp3.1\WHILE - IMS.genruntimeconfig.cache

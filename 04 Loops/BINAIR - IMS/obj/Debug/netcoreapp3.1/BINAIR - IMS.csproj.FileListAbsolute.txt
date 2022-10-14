@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\bin\Debug\netcoreapp3.1\BINAIR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\BINAIR - IMS\obj\Debug\netcoreapp3.1\BINAIR - IMS.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\bin\Debug\netcoreapp3.1\GAME - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\04 Loops\GAME - IMS\obj\Debug\netcoreapp3.1\GAME - IMS.genruntimeconfig.cache
