@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\Rapunzel.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\bin\Debug\netcoreapp3.1\RAPUNZEL - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - IMS\obj\Debug\netcoreapp3.1\RAPUNZEL - IMS.genruntimeconfig.cache

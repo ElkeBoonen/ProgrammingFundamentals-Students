@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\FILES - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\obj\Debug\netcoreapp3.1\FILES - IMS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - IMS\bin\Debug\netcoreapp3.1\Rapunzel.txt

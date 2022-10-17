@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\bin\Debug\netcoreapp3.1\FIZZBUZZ - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - IMS\obj\Debug\netcoreapp3.1\FIZZBUZZ - IMS.genruntimeconfig.cache
