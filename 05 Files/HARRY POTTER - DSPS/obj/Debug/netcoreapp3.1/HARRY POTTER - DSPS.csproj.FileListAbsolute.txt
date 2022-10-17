@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\Harry Potter and the Sorcerer.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - DSPS.genruntimeconfig.cache

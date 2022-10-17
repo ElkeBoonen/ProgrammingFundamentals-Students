@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\Characters.csv
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\bin\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER - CHARACTERS - DSPS\obj\Debug\netcoreapp3.1\HARRY POTTER - CHARACTERS - DSPS.genruntimeconfig.cache

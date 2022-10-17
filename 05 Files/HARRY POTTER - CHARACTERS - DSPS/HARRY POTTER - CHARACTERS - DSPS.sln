@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARRY POTTER - CHARACTERS - DSPS", "HARRY POTTER - CHARACTERS - DSPS.csproj", "{84E9DE5A-0FB4-40D1-A798-C646BCB5203A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E9DE5A-0FB4-40D1-A798-C646BCB5203A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E9DE5A-0FB4-40D1-A798-C646BCB5203A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E9DE5A-0FB4-40D1-A798-C646BCB5203A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E9DE5A-0FB4-40D1-A798-C646BCB5203A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E681C92-5BFE-481F-B8E2-7AAF2E2CCC45}
+	EndGlobalSection
+EndGlobal
