@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\Rapunzel.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\bin\Debug\netcoreapp3.1\RAPUNZEL - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\RAPUNZEL - DSPS\obj\Debug\netcoreapp3.1\RAPUNZEL - DSPS.genruntimeconfig.cache
