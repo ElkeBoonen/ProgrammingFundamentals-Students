@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\Rapunzel.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\bin\Debug\netcoreapp3.1\FILES - READING - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - READING - DSPS\obj\Debug\netcoreapp3.1\FILES - READING - DSPS.genruntimeconfig.cache

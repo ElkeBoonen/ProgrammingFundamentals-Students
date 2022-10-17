@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\bin\Debug\netcoreapp3.1\FILES - WRITING - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FILES - WRITING - DSPS\obj\Debug\netcoreapp3.1\FILES - WRITING - DSPS.genruntimeconfig.cache

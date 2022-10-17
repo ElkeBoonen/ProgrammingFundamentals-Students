@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\bin\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\FIZZBUZZ - DSPS\obj\Debug\netcoreapp3.1\FIZZBUZZ - DSPS.genruntimeconfig.cache
