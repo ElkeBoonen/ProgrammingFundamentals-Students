@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\Characters.csv
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\bin\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\05 Files\HARRY POTTER CHARACTERS - IMS\obj\Debug\netcoreapp3.1\HARRY POTTER CHARACTERS - IMS.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARRY POTTER - IMS", "HARRY POTTER - IMS.csproj", "{4BC0F94F-8B50-4936-83CD-2269719185EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC0F94F-8B50-4936-83CD-2269719185EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0F94F-8B50-4936-83CD-2269719185EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0F94F-8B50-4936-83CD-2269719185EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC0F94F-8B50-4936-83CD-2269719185EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40C74D6-7753-4F7B-9183-AC771649F854}
+	EndGlobalSection
+EndGlobal
