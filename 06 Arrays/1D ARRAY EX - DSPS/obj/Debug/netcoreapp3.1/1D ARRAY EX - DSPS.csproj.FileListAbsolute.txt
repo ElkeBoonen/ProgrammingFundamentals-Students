@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\bin\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY EX - DSPS\obj\Debug\netcoreapp3.1\1D ARRAY EX - DSPS.genruntimeconfig.cache

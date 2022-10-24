@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1D ARRAY OEF - IMS", "1D ARRAY OEF - IMS.csproj", "{C4F75FF3-BAFF-4AC0-BA0B-1FBC707B9A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F75FF3-BAFF-4AC0-BA0B-1FBC707B9A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F75FF3-BAFF-4AC0-BA0B-1FBC707B9A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F75FF3-BAFF-4AC0-BA0B-1FBC707B9A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F75FF3-BAFF-4AC0-BA0B-1FBC707B9A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62FCBC0-0E4F-4D44-9A3B-AA5390BB7CAF}
+	EndGlobalSection
+EndGlobal

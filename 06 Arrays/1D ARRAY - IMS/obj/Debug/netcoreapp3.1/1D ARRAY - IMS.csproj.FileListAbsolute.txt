@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\bin\Debug\netcoreapp3.1\1D ARRAY - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\1D ARRAY - IMS\obj\Debug\netcoreapp3.1\1D ARRAY - IMS.genruntimeconfig.cache

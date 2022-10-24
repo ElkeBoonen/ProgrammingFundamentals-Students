@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\donkey.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\bin\Debug\netcoreapp3.1\DONKEY - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\DONKEY - IMS\obj\Debug\netcoreapp3.1\DONKEY - IMS.genruntimeconfig.cache
