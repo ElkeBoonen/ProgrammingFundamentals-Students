@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\bin\Debug\netcoreapp3.1\SOCCER - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\SOCCER - DSPS\obj\Debug\netcoreapp3.1\SOCCER - DSPS.genruntimeconfig.cache
