@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\bin\Debug\netcoreapp3.1\VOETBAL - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\VOETBAL - IMS\obj\Debug\netcoreapp3.1\VOETBAL - IMS.genruntimeconfig.cache
