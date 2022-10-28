@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\bin\Debug\netcoreapp3.1\RAPPORT - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\06 Arrays\RAPPORT - IMS\obj\Debug\netcoreapp3.1\RAPPORT - IMS.genruntimeconfig.cache
