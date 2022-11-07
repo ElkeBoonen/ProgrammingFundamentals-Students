@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\donkey.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\DSPS - DONKEY.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\obj\Debug\netcoreapp3.1\DSPS - DONKEY.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - DONKEY\bin\Debug\netcoreapp3.1\english.txt

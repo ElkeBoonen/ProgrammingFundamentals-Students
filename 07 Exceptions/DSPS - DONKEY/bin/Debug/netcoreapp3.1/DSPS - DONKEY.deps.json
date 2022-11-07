@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DSPS - DONKEY/1.0.0": {
+        "runtime": {
+          "DSPS - DONKEY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DSPS - DONKEY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

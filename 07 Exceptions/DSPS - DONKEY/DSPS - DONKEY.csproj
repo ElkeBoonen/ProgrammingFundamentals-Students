@@ -6,4 +6,13 @@
     <RootNamespace>DSPS___DONKEY</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="donkey.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="english.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
