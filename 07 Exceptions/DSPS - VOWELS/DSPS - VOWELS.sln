@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSPS - VOWELS", "DSPS - VOWELS.csproj", "{5523C5C9-0FCE-4F2C-B3BE-E35DBFC8AAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5523C5C9-0FCE-4F2C-B3BE-E35DBFC8AAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5523C5C9-0FCE-4F2C-B3BE-E35DBFC8AAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5523C5C9-0FCE-4F2C-B3BE-E35DBFC8AAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5523C5C9-0FCE-4F2C-B3BE-E35DBFC8AAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B9A18C-70B1-4058-9630-3B0AD1ACF918}
+	EndGlobalSection
+EndGlobal

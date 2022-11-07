@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\bin\Debug\netcoreapp3.1\DSPS - VOWELS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - VOWELS\obj\Debug\netcoreapp3.1\DSPS - VOWELS.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\donkey.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\english.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\bin\Debug\netcoreapp3.1\DSPS - EXCEPTION.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\DSPS - EXCEPTION\obj\Debug\netcoreapp3.1\DSPS - EXCEPTION.genruntimeconfig.cache
