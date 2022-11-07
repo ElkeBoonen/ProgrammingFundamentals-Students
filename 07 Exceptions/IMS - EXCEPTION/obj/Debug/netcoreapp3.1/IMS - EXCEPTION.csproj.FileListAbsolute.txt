@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\IMS - EXCEPTION.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\obj\Debug\netcoreapp3.1\IMS - EXCEPTION.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - EXCEPTION\bin\Debug\netcoreapp3.1\english.txt

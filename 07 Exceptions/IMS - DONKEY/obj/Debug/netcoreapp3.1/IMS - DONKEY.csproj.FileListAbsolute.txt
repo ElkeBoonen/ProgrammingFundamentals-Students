@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\donkey.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\bin\Debug\netcoreapp3.1\IMS - DONKEY.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - DONKEY\obj\Debug\netcoreapp3.1\IMS - DONKEY.genruntimeconfig.cache

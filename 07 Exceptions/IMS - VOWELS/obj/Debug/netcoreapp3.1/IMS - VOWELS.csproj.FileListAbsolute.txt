@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\IMS - VOWELS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\obj\Debug\netcoreapp3.1\IMS - VOWELS.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\07 Exceptions\IMS - VOWELS\bin\Debug\netcoreapp3.1\english.txt
