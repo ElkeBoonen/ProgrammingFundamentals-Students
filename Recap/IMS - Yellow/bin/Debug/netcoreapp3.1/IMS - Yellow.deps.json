@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IMS - Yellow/1.0.0": {
+        "runtime": {
+          "IMS - Yellow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMS - Yellow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

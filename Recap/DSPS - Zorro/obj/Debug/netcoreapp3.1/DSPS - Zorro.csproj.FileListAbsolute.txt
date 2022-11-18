@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\BillieEilish.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\bin\Debug\netcoreapp3.1\DSPS - Zorro.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Zorro\obj\Debug\netcoreapp3.1\DSPS - Zorro.genruntimeconfig.cache

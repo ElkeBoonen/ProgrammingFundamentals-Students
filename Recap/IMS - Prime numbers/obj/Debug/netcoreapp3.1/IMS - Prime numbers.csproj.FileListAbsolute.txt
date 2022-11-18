@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\bin\Debug\netcoreapp3.1\IMS - Prime numbers.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Prime numbers\obj\Debug\netcoreapp3.1\IMS - Prime numbers.genruntimeconfig.cache

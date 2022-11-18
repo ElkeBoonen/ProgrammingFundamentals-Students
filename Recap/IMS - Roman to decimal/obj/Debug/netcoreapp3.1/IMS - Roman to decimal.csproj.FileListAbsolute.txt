@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\bin\Debug\netcoreapp3.1\IMS - Roman to decimal.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Roman to decimal\obj\Debug\netcoreapp3.1\IMS - Roman to decimal.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\bin\Debug\netcoreapp3.1\IMS - In the mix.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - In the mix\obj\Debug\netcoreapp3.1\IMS - In the mix.genruntimeconfig.cache

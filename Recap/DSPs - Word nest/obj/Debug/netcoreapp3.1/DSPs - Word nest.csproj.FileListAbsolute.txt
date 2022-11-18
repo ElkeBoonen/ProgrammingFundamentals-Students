@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\bin\Debug\netcoreapp3.1\DSPs - Word nest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPs - Word nest\obj\Debug\netcoreapp3.1\DSPs - Word nest.genruntimeconfig.cache

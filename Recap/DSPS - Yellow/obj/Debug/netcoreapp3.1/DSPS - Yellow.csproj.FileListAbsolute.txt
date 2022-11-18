@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\ColdPlay.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\bin\Debug\netcoreapp3.1\DSPS - Yellow.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\DSPS - Yellow\obj\Debug\netcoreapp3.1\DSPS - Yellow.genruntimeconfig.cache

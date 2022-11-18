@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\IMS - Yellow.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\obj\Debug\netcoreapp3.1\IMS - Yellow.genruntimeconfig.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Yellow\bin\Debug\netcoreapp3.1\ColdPlay.txt

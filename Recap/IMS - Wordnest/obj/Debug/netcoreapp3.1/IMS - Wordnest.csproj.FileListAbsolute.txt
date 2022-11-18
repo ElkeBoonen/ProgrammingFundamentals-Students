@@ -1,0 +1,14 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\bin\Debug\netcoreapp3.1\IMS - Wordnest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Wordnest\obj\Debug\netcoreapp3.1\IMS - Wordnest.genruntimeconfig.cache
