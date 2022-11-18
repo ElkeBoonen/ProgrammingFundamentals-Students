@@ -1,0 +1,15 @@
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\ColdPlay.txt
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.exe
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.deps.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.runtimeconfig.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.runtimeconfig.dev.json
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\bin\Debug\netcoreapp3.1\IMS - Zorro.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.csproj.AssemblyReference.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.AssemblyInfoInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.AssemblyInfo.cs
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.csproj.CoreCompileInputs.cache
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.dll
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.pdb
+C:\Users\elkeb\OneDrive - Thomas More\Git\ProgrammingFundamentals-Students\Recap\IMS - Zorro\obj\Debug\netcoreapp3.1\IMS - Zorro.genruntimeconfig.cache
